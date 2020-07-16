@@ -4,7 +4,7 @@ Welcome to AlgoTradeX! We're glad to have you here.
 
 ## Join us in discussions, forums, and meetings
 
-Join @atx-global-team to see where you can chat with the community and share your ideas.
+Join **@atx-global-team** to see where you can chat with the community and share your ideas.
 
 ## Code of conduct
 
