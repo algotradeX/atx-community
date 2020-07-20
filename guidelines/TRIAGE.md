@@ -18,15 +18,22 @@ The following are necessary and sufficient conditions for an issue to be conside
   
   * **bug**
     * Something is not working as intended in general.
+  * **discussion**
+    * Discussion going on a certain topic
+  * **duplicate**
+    * Duplicate issues
+  * **enhancement**
+    * Everything is working as intended, but could be better
+  * **feature request**
+    * A new feature request that does not exist
+  * **proposal**
+    * Proposal to do/change/implement specifics
   * **question**
     * Clear question statement
     * Something is not working as intended in author's specific use case and he/she doesn't know why.
-  * **feature**
-    * Everything is working as intended, but could be better (i.e more user friendly)
-  * **process**
-    * Typically used to leave a paper trail for updating AlgoTradeX infrastructure. It helps to track the changes to infrastructure for easy debugging in the future.
+  
 
-* The issue must have at least one [area or platform label]() grouping related issues and relevant owners.
+* The issue must have at least one area or platform label grouping related issues and relevant owners.
 
 * The issue must have a priority attached to it. Here is a guideline for priority
 
