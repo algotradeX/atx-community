@@ -20,6 +20,11 @@ Step 1: Create an issue with "Community Membership Request" template
 Step 2(Optional): Add a PR that updates members/atx-global-team.md and link above issue.
 
 
+Git
+------------------------------------------------------
+[Git branching rules](https://github.com/algotradeX/atx-community/blob/master/guidelines/GIT_BRANCHING.md) are to be followed on technical projects.
+
+
 Issue Triaging
 ------------------------------------------------------
 Use following rules for triaging issues: [Triaging Guidelines](https://github.com/algotradeX/atx-community/blob/master/guidelines/TRIAGE.md)
