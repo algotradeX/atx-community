@@ -7,4 +7,4 @@ assignees: pritam001
 
 ---
 
-**Contributor name:**
+**Contributor github username:**
