@@ -12,8 +12,11 @@ Join us in discussions, forums, and meetings
 ------------------------------------------------------
 Join **@atx-global-team** to see where you can chat with the community and share your ideas.
 
+
 #### How to join @atx-global-team
+
 Step 1: Create an issue with "Community Membership Request" template
+
 Step 2(Optional): Add a PR that updates members/atx-global-team.md and link above issue.
 
 
