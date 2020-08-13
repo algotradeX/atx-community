@@ -1,6 +1,15 @@
 AlgoTradeX Community
 ------------------------------------------------------
-Welcome to AlgoTradeX! We're glad to have you here.
+Welcome to AlgoTradeX Community! We're glad to have you here.
+
+Join us in discussions, forums, and meetings
+------------------------------------------------------
+
+
+[![Slack Invite](https://img.shields.io/badge/slack-@AlgoTradeX/general-yellow.svg?logo=slack)](https://join.slack.com/t/algotradex/shared_invite/zt-gjqyf5yt-J~_KtukjhrwByL6JeOSSbA) 
+[![Discord Widget](https://img.shields.io/discord/724039474866159706?label=Discord&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/bfDwgVb)
+
+Join Slack, Discord or **@algotradeX/atx-global-team** to chat with the community and share your ideas.
 
 
 Project AlgoTradeX
@@ -17,10 +26,6 @@ This repository will entail the following:
 4. Details on currently running projects.
 5. Discussion on vision, ideas and implementation.
 
-
-Join us in discussions, forums, and meetings
-------------------------------------------------------
-Join **@atx-global-team** to see where you can chat with the community and share your ideas.
 
 
 #### How to join @atx-global-team
