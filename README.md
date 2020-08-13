@@ -6,7 +6,7 @@ Join us in discussions, forums, and meetings
 ------------------------------------------------------
 
 
-[![Slack Invite](https://img.shields.io/badge/slack-@AlgoTradeX/general-yellow.svg?logo=slack)](https://join.slack.com/t/algotradex/shared_invite/zt-gjqyf5yt-J~_KtukjhrwByL6JeOSSbA) 
+[![Slack Invite](https://img.shields.io/badge/slack-@AlgoTradeX/atx--sim--lab4j-yellow.svg?logo=slack)](https://join.slack.com/t/algotradex/shared_invite/zt-gjqyf5yt-J~_KtukjhrwByL6JeOSSbA) 
 [![Discord Widget](https://img.shields.io/discord/724039474866159706?label=Discord&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/bfDwgVb)
 
 Join Slack, Discord or **@algotradeX/atx-global-team** to chat with the community and share your ideas.
