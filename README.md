@@ -8,7 +8,7 @@ Welcome to AlgoTradeX Community! We're glad to have you here.
 Join us in discussions, forums, and meetings
 ------------------------------------------------------
 
-[![Slack Invite](https://img.shields.io/badge/slack-@AlgoTradeX/atx--sim--lab4j-yellow.svg?logo=slack)](https://join.slack.com/t/algotradex/shared_invite/zt-gjqyf5yt-J~_KtukjhrwByL6JeOSSbA) 
+[![Slack Invite](https://img.shields.io/badge/slack-@AlgoTradeX/atx--community-yellow.svg?logo=slack)](https://join.slack.com/t/algotradex/shared_invite/zt-gjqyf5yt-J~_KtukjhrwByL6JeOSSbA) 
 [![Discord Widget](https://img.shields.io/discord/724039474866159706?label=Discord&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/bfDwgVb)
 
 > Join Slack, Discord or **@algotradeX/atx-global-team** to chat with the community and share your ideas.
@@ -26,16 +26,13 @@ Projects are in general aimed at:
 Active Projects
 ------------------------------------------------------
 ### [**atx-sim-lab4j**](https://github.com/algotradeX/atx-sim-lab4j)
-- Simulator deployables [PRD](https://github.com/algotradeX/atx-community/tree/master/project/SimLab4j)
+- Simulator deployables [PRD](https://github.com/algotradeX/atx-community/tree/master/projects/SimLab4j)
 
 ### [**atx-sim-labpy**](https://github.com/algotradeX/atx-sim-labpy)
-- RnD project [PRD](https://github.com/algotradeX/atx-community/tree/master/project/SimLabPy)
+- RnD project [PRD](https://github.com/algotradeX/atx-community/tree/master/projects/SimLabPy)
 
 ### [**atx-community**](https://github.com/algotradeX/atx-community)
-- Trading wiki
-- AlgoTradeX community wiki
-- Project PRD holder
-- Discussion holder
+- Wiki project
 
 
 atx-community repository
