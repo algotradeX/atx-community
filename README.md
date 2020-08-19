@@ -1,20 +1,41 @@
-AlgoTradeX Community
-------------------------------------------------------
+# AlgoTradeX Community
+
 Welcome to AlgoTradeX Community! We're glad to have you here.
+
+> We are actively looking for FOOS developers with ideas on automated algorithmic trading
+
 
 Join us in discussions, forums, and meetings
 ------------------------------------------------------
 
-
 [![Slack Invite](https://img.shields.io/badge/slack-@AlgoTradeX/atx--sim--lab4j-yellow.svg?logo=slack)](https://join.slack.com/t/algotradex/shared_invite/zt-gjqyf5yt-J~_KtukjhrwByL6JeOSSbA) 
 [![Discord Widget](https://img.shields.io/discord/724039474866159706?label=Discord&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/bfDwgVb)
 
-Join Slack, Discord or **@algotradeX/atx-global-team** to chat with the community and share your ideas.
+> Join Slack, Discord or **@algotradeX/atx-global-team** to chat with the community and share your ideas.
 
 
-Project AlgoTradeX
+About AlgoTradeX
 ------------------------------------------------------
-This project aims to use technology and quants knowledge to crack the market.
+This organization and its projects aims to use technology and quants knowledge to solve the unsolvable market problem. 
+Projects are in general aimed at:
+1. Improving trading knowledge
+1. Validating known ideas and implementations
+1. Research and develop new ideas and implementations
+
+
+Active Projects
+------------------------------------------------------
+### [**atx-sim-lab4j**](https://github.com/algotradeX/atx-sim-lab4j)
+- Simulator deployables [PRD](https://github.com/algotradeX/atx-community/tree/master/project/SimLab4j)
+
+### [**atx-sim-labpy**](https://github.com/algotradeX/atx-sim-labpy)
+- RnD project [PRD](https://github.com/algotradeX/atx-community/tree/master/project/SimLabPy)
+
+### [**atx-community**](https://github.com/algotradeX/atx-community)
+- Trading wiki
+- AlgoTradeX community wiki
+- Project PRD holder
+- Discussion holder
 
 
 atx-community repository
