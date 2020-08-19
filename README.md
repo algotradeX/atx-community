@@ -16,11 +16,15 @@ Join us in discussions, forums, and meetings
 
 About AlgoTradeX
 ------------------------------------------------------
-This organization and its projects aims to use technology and quants knowledge to solve the unsolvable market problem. 
+This organization and its projects aims to use technology and quants knowledge to solve the unsolvable problem called stock market. 
 Projects are in general aimed at:
 1. Improving trading knowledge
 1. Validating known ideas and implementations
 1. Research and develop new ideas and implementations
+1. Automation of algorithms
+1. Automation of portfolio
+1. Automation of news based trading
+1. Artificial Inteligence based trading
 
 
 Active Projects
