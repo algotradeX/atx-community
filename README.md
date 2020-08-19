@@ -33,8 +33,8 @@ Active Projects
 ### [**atx-sim-lab4j**](https://github.com/algotradeX/atx-sim-lab4j)
 - Simulator deployables [PRD](https://github.com/algotradeX/atx-community/tree/master/projects/SimLab4j)
 
-### [**atx-sim-labpy**](https://github.com/algotradeX/atx-sim-labpy)
-- RnD project [PRD](https://github.com/algotradeX/atx-community/tree/master/projects/SimLabPy)
+### [**atx-sim-pylab**](https://github.com/algotradeX/atx-sim-pylab)
+- RnD project [PRD](https://github.com/algotradeX/atx-community/tree/master/projects/SimPyLab)
 
 ### [**atx-community**](https://github.com/algotradeX/atx-community)
 - Wiki project
