@@ -9,7 +9,7 @@ Objective
 Project SimLab4j will act as an service for following:
 1. ta4j based logical trading algorithms simulation
 2. UI/API to upload data for creating in-memory BarSeries
-3. Optional support to store data in Postgres+TimescaleDB
+3. Optional support to store data in H2
 4. UI/API to select algorithm, simulate and view data
 
 ### Artifacts
@@ -21,4 +21,4 @@ Technology
 1. Java 14
 2. Spring Boot
 3. ta4j
-4. Postgres+TimescaleDB
+4. H2
