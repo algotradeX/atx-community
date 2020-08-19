@@ -2,7 +2,8 @@
 
 Welcome to AlgoTradeX Community! We're glad to have you here.
 
-> We are actively looking for FOOS developers with ideas on automated algorithmic trading
+> We are actively looking for [FOSS](https://en.wikibooks.org/wiki/FOSS_A_General_Introduction/Introduction) developers
+with ideas on automated algorithmic trading
 
 
 Join us in discussions, forums, and meetings
