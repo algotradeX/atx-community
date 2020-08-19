@@ -1,12 +1,12 @@
-Project SimLabPy
+Project SimPyLab
 -------------------------------------------------------------
 
-**IMPORTANT:** `Following README will act as a PRD for project atx-sim-labpy`
+**IMPORTANT:** `Following README will act as a PRD for project atx-sim-pylab`
 
 
 Objective
 -------------------------------------------------------------
-Project SimLabPy will act as an Research and Development zone for following:
+Project SimPyLab will act as an Research and Development zone for following:
 1. Trading strategies
 2. ML algorithms
 3. Simulation logic
@@ -15,6 +15,7 @@ Project SimLabPy will act as an Research and Development zone for following:
 
 Technology
 -------------------------------------------------------------
+1. Python3
 1. Jupyter Notebook
-2. Pandas
+1. Pandas
 
